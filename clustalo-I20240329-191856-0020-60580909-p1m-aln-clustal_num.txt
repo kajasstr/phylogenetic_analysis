@@ -1,0 +1,819 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+AFK83609.1        ------------------------------------------------------------	0
+AAO78889.1        ------------------------------------------------------------	0
+AAO77736.1        ------------------------------------------------------------	0
+AAO79067.1        ------------------------------------------------------------	0
+AAO79095.1        ------------------------------------------------------------	0
+BAA76709.1        MTVPRPRNERSAR----------RLWA-AAGAALTVTVAMLT-------PVTASAAAGGT	42
+AFK83608.1        MTRPLPPGRAVARSGSGRARPLGLVLA--AALAVPLGVPLAAPAGALAA-APAAAAEPGD	57
+CAD7619346.1      ----------------MKKRAIQKIISSIVSLAVLTSVPVMQKPSVLAASSDSTSASKTD	44
+AFK83605.1        ------------------------------------------------------------	0
+AFK83606.1        ------------------------------------------------------------	0
+AAO78636.1        ------------------------------------------------------------	0
+AAO79198.1        ------------------------------------------------------------	0
+AAO79178.1        ------------------------------------------------------------	0
+AAO79070.1        ------------------------------------------------------------	0
+AAO78236.1        ------------------------------------------------------------	0
+AAO76985.1        ------------------------------------------------------------	0
+AAO78878.1        ------------------------------------------------------------	0
+                                                                              
+
+AFK83609.1        ------------------------------------------------------------	0
+AAO78889.1        ------------------------------------------------------------	0
+AAO77736.1        ------------------------------------------------------------	0
+AAO79067.1        ------------------------------------------------------------	0
+AAO79095.1        ------------------------------------------------------------	0
+BAA76709.1        FASSFESTDATPVLTG----TGQPVNVTGSR------------FVPGSMLPAIAPDGVTA	86
+AFK83608.1        FSSSFESGDPAALPTTVAERDGAPWQANVGSFTAGL---------PGSVLGQ--LKGVTA	106
+CAD7619346.1      FFSSFEKSDLQLTWTNTVETDA-----NGKKMSSGIDGNVKRDLILGDITDK--VVQVTA	97
+AFK83605.1        ------------------------------------------------------------	0
+AFK83606.1        ------------------------------------------------------------	0
+AAO78636.1        ------------------------------------------------------------	0
+AAO79198.1        ------------------------------------------------------------	0
+AAO79178.1        ------------------------------------------------------------	0
+AAO79070.1        ------------------------------------------------------------	0
+AAO78236.1        ------------------------------------------------------------	0
+AAO76985.1        ------------------------------------------------------------	0
+AAO78878.1        ------------------------------------------------------------	0
+                                                                              
+
+AFK83609.1        ------------------------------------------------------------	0
+AAO78889.1        ------------------------------------------------------------	0
+AAO77736.1        ------------------------------------------------------------	0
+AAO79067.1        ------------------------------------------------------------	0
+AAO79095.1        ------------------------------------------------------------	0
+BAA76709.1        SAQNTPNEAAAFAADANASTKWLAFARTGWIQYQLTAAQPMAKYTLTSGGDAEARDPKNF	146
+AFK83608.1        SAQNLPNEGAANLADGSSGTKWLAFASTGWVRYEFAEPVSFVAYTMTSGDDAAGRDPKTW	166
+CAD7619346.1      SANNPPNEIDSKLIDGDPTTKWLAFEPTANIVLKLAEPVAVVKYALTSANDAKGRDPKNW	157
+AFK83605.1        ------------------------------------------------------------	0
+AFK83606.1        ------------------------------------------------------------	0
+AAO78636.1        ------------------------------------------------------------	0
+AAO79198.1        ------------------------------------------------------------	0
+AAO79178.1        ------------------------------------------------------------	0
+AAO79070.1        ------------------------------------------------------------	0
+AAO78236.1        ------------------------------------------------------------	0
+AAO76985.1        ------------------------------------------------------------	0
+AAO78878.1        ------------------------------------------------------------	0
+                                                                              
+
+AFK83609.1        ------------------------------------------------------------	0
+AAO78889.1        ------------------------------------------------------------	0
+AAO77736.1        ------------------------------------------------------------	0
+AAO79067.1        ------------------------------------------------------------	0
+AAO79095.1        ------------------------------------------------------------	0
+BAA76709.1        RVQGSNNGTDWTTVDERSGEMFTGRGQTRTFELAAPSDPYLYYRLDVLETRTANTGIVQL	206
+AFK83608.1        TVEGSNDGSTWAALDRRTDEDFPNRQQTRTFELEAPTAAYTYLRLNVTAN--SGDSIVQL	224
+CAD7619346.1      TLYGSLDGTNWTAVDTREGEDFKDRFQRNMYDLKN-TTKYLYYKLDITKN--AGDSITQL	214
+AFK83605.1        ------------------------------------------------------------	0
+AFK83606.1        ------------------------------------------------------------	0
+AAO78636.1        ------------------------------------------------------------	0
+AAO79198.1        ------------------------------------------------------------	0
+AAO79178.1        ------------------------------------------------------------	0
+AAO79070.1        ------------------------------------------------------------	0
+AAO78236.1        ------------------------------------------------------------	0
+AAO76985.1        ------------------------------------------------------------	0
+AAO78878.1        ------------------------------------------------------------	0
+                                                                              
+
+AFK83609.1        ------------------------------------------------------------	0
+AAO78889.1        ------------------------------------------------------------	0
+AAO77736.1        ------------------------------------------------------------	0
+AAO79067.1        ------------------------------------------------------------	0
+AAO79095.1        ------------------------------------------------------------	0
+BAA76709.1        ADFEPIA-VSDGVPVADDLRLAIGNGPTASDTAKTGVGFTGTKALQYSGRHLAAGPASST	265
+AFK83608.1        AGWDLSADLSA-GPSAAPMTTKVGTGPRVSFTNKAGVGFSGLHSLRYDGSHLADGETYAT	283
+CAD7619346.1      AEISLSDGIEVPAPPPGDMKSLIGKGPTSSYTAKTNVGWTGLGALNYSGTHLSDGRAYSY	274
+AFK83605.1        ------------------------------------------------------------	0
+AFK83606.1        ------------------------------------------------------------	0
+AAO78636.1        ------------------------------------------------------------	0
+AAO79198.1        ------------------------------------------------------------	0
+AAO79178.1        ------------------------------------------------------------	0
+AAO79070.1        ------------------------------------------------------------	0
+AAO78236.1        ------------------------------------------------------------	0
+AAO76985.1        ------------------------------------------------------------	0
+AAO78878.1        ------------------------------------------------------------	0
+                                                                              
+
+AFK83609.1        ------------------------------------------------------------	0
+AAO78889.1        ------------------------------------------------------------	0
+AAO77736.1        ------------------------------------------------------------	0
+AAO79067.1        ------------------------------------------------------------	0
+AAO79095.1        ------------------------------------------------------------	0
+BAA76709.1        TTVYSDVDVAVEKGSELSYLVFPVLDGE--QTYAATFVAVDLTFDDGTTLSTSGAVDSYG	323
+AFK83608.1        NVLYDDVDVVVGEDTRLSYTIFPELLDD--LQYPSTYAAVDVLFTDGTYLSDLGARDAHE	341
+CAD7619346.1      NKLYD-VDILVTPATELSYFIAPEFTDKNHNDYSSTYVSVDLAFSDGTYLHDLKAVDQYG	333
+AFK83605.1        ------------------------------------------------------------	0
+AFK83606.1        ------------------------------------------------------------	0
+AAO78636.1        ------------------------------------------------------------	0
+AAO79198.1        ------------------------------------------------------------	0
+AAO79178.1        ------------------------------------------------------------	0
+AAO79070.1        ------------------------------------------------------------	0
+AAO78236.1        ------------------------------------------------------------	0
+AAO76985.1        ------------------------------------------------------------	0
+AAO78878.1        ------------------------------------------------------------	0
+                                                                              
+
+AFK83609.1        ---------------------------------------------------------ALA	3
+AAO78889.1        --------------------------------------------MK----------THFS	6
+AAO77736.1        --------------------------------------------MK----------THFS	6
+AAO79067.1        ----------------------------------------------------------MN	2
+AAO79095.1        ------------------------------------------------------------	0
+BAA76709.1        YAANARKQGQSNALWPNQWNKVTVDLGQF-EGRTIDDILFTYDHPGADVKGIEVPTAATS	382
+AFK83608.1        TVATAQAQGEGKILYADQWNSVRVDLGDVAEGKTVDQVLLGYDNPGGH--------AGTK	393
+CAD7619346.1      VGLNPKDQGDSKYLYVNQWNTIKSTIGSVAAGKTIKRILVAYDNPKGP--------G--A	383
+AFK83605.1        ---------------------------------------MRR--PR----------LALL	9
+AFK83606.1        ---------------------------------------------------------MSL	3
+AAO78636.1        ------------------------------------------------------------	0
+AAO79198.1        ------------------------------------------------------------	0
+AAO79178.1        ----------------------------------------------------------MY	2
+AAO79070.1        ------------------------------------------------------------	0
+AAO78236.1        ------------------------------------------------------------	0
+AAO76985.1        ------------------------------------MIIMKRKSPV----------MAVA	14
+AAO78878.1        ----------------------------------------------------------MN	2
+                                                                              
+
+AFK83609.1        VVGLA----------P------ATAASAAPEPPSADYASLVDVFVGTE---------GDF	38
+AAO78889.1        FKHLLFIG--------------GAVLYSMQISAVKNPVDYVSTLVGTQSKFE-----LST	47
+AAO77736.1        FKHLLFLG--------------GAVLYSLQSSAVKNPVDYVSTLIGTQSKFE-----LST	47
+AAO79067.1        KQKLLSITM-------------TLLLGVSSIFAQKQPVDYVNPLMGTDSKIS-----LSN	44
+AAO79095.1        MKRLLL--I-------------ACILNCTLLSQAKDWTQYVNPLMGSQSTFE-----LST	40
+BAA76709.1        FSGW--LDD-------------VQIGTATARDISDGLVSYVDTRRGTNSTGG-----FSR	422
+AFK83608.1        FAGW--LDD-------------VEITAEPATIDGSSLANYVDTRRGTLASGS-----FSR	433
+CAD7619346.1      FRGS--IDD-------------IKIDGKPVQKAFGSPIDYVNILRGTQSNGS-----FSR	423
+AFK83605.1        AAGLALAVAPGTL-LPVAAGAAPADEGTVTAAAGDDLTLEVNPFVGTE----------SE	58
+AFK83606.1        ALPLAAYAAPGIGASPATAAGTEAATGSDAAAVDGPLVDYVNPFIGTK----------DD	53
+AAO78636.1        -----------------------------MTPSVAQNTKYVNLFIGTS---------GDN	22
+AAO79198.1        -MKHKFLFIL-------LFSLVLEGMV-TTQAVAGDYVHQVNTLIGTK------GTGLTS	45
+AAO79178.1        KASANILIAC-------SFLWLTACSSAGVVTEDLIPTDYVNPFIGASTSVGAAGVYHGL	55
+AAO79070.1        ------------------------------MAQTEKLTDYVNPFVGTD----------GY	20
+AAO78236.1        -MKKLLLSVC-------AFSLTLA------TLQAGEITKYVNPFIGTGAIDG-----GLS	41
+AAO76985.1        LAGLFMYTSC----------------SPTEQAETKDYTQYVNTFIGAA----------DN	48
+AAO78878.1        AFKLLMAASC-------FLGLATSGVAKQDYSKSEGLLQYVDPYIGSG----------FH	45
+                                                          *.   *:             
+
+AFK83609.1        GNDMPAAQAPNGLAKVNPRTTP---GRNNTGYDYAQ-------SKISGFTHTNLDGVGGS	88
+AAO78889.1        GNTYPATALPWGMNFWTPQTGK-M--GDGWAYTYNA-------DKIRGFKQTHQPSPWM-	96
+AAO77736.1        GNTYPATALPWGMNFWTPQTGK-M--GDGWAYTYDA-------DKIRGFKQTHQPSPWM-	96
+AAO79067.1        GNTYPAIALPWGMNFWMPQTGK-M--GDGWAYTYAS-------DKIRGFKQTHQPSPWI-	93
+AAO79095.1        GNTYPAIARPWGMNFWTPQTGK-M--GDGWQYTYTA-------NKIRGFKQTHQPSPWI-	89
+BAA76709.1        GNNLPATAWPNGFNFITPMTNA-D--NTGTIYQYQRANNAQNKIGLNGIGFSHQPSIWM-	478
+AFK83608.1        GNNIPATATPNGFNFWTPYTNA-S--SQSWLYEYHKANNANNKPVLQGFGISHEPSPWM-	489
+CAD7619346.1      GNNFPAVAIPHGFNFWTPTTNA-G---SSWIYQYHESNSVNNLPQIQAFSVSHEPSPWM-	478
+AFK83605.1        GNAYPGATVPFGMVQLSPDNTN---SYASTSYSTNA-------GRVWGFSHRHVNSAGC-	107
+AFK83606.1        GNTYPGAAVPFGMVQLSPDNGH---NV---GYDYDR-------TSVRGFSLVHLSGVGC-	99
+AAO78636.1        GQVAPGAAAPFGMVCVCPDND----PRSHAGYDYAV-------TKVSGISVNRLSGVGCS	71
+AAO79198.1        GYLYPGATYPYGMVQFTPSYF----------------------SKRSGFVINQLSGGGC-	82
+AAO79178.1        GKTFPGATTPYGMVQVSPNTI--TGGDNSSGYSDEH-------KTIEGFAFTQMSGVGWF	106
+AAO79070.1        GNVYPGAQIPFGGIQISPDTD-SRFYDAASGYKYNH-------LTLMGFSLTHLSGTGI-	71
+AAO78236.1        GNNYPGATSPFGMIQLSPDTSEAPNWGDASGYDYNR-------NTIFGFSHTRLSGTGA-	93
+AAO76985.1        GHTFPGACYPFGMIQTSPVTG-AVGWRYCSEYTYQD-------SLIWGFTQTHLNGTGC-	99
+AAO78878.1        GHVFVGTSVPYGMVQLGPNNI-HKGWDWCSGYHYSD-------SILIGFSHTHLSGTGC-	96
+                  *    .   * *     *                             .:   .  .    
+
+AFK83609.1        GGGGDLLVVPTSGSYTARPG-----TGTYAHPFSHDDEDAGPGFYSVGLGNVAGTDGAIT	143
+AAO78889.1        NDYGQFSIMPITG---GL----VFDQDQRASWFSHKAEVAKPYYYKVYLAD---------	140
+AAO77736.1        NDYGQFAIMPITG---GL----VFDQDRRASWFSHKAEVAKPYYYKVYLAD---------	140
+AAO79067.1        NDYGQFSIMPMTK---QL----KIDQDSRASWFSHKAEKATPYYYSVYLSE---------	137
+AAO79095.1        NDYGQFSIMPIVG---QP----VFDEEKRASWFAHKGEVATPYYYKVYLAE---------	133
+BAA76709.1        GDRNQLAVLPAAT--SNP----TSNLNDRKLTFSHENEIARPDIYDVTF-D---------	522
+AFK83608.1        GDRNQLTFLPSTA-SGTP----DATLSTRGLEFDHADETARPDYYGVTF-T---------	534
+CAD7619346.1      GDRQTFQVMPSASTAATP----NANRDSRALEFNHANEIAQPHYYSVKF-E---------	524
+AFK83605.1        PAAGELLVTPDTSATP------RTSRSFIAIKDQKSTERASAGFYEVTLA----------	151
+AFK83606.1        GLGGPLPTLPTTGAIT------STDYGQYALGFSHDDEEASPGYYRVGLQAP--------	145
+AAO78636.1        GGGGNLRIRPVAPSQ--------------ELHIKKSREKATPGYYSTAF-T---------	107
+AAO79198.1        EHMGNFPTFPVKGKLKMSPDNI----LNY--RINVSEEKGHAGYYEAMV-Q---------	126
+AAO79178.1        GDLGNFLVMPTTGELQKIAGKEDGSIKGYRSSYDKATETAKAGYYSVELTD---------	157
+AAO79070.1        PDLGDFLFIPGTGEMKLEPGTHEDPDQGYRSRYSHDKEWASPNYYAVELAD---------	122
+AAO78236.1        SDLIDITLMPTSSG-RT------------SSAFTHDEEKARPGYYQVMLKD---------	131
+AAO76985.1        MDLGDILVMPVTGT-R------ARAWDAYRSHFPKDKEAATPGYYTVELSD---------	143
+AAO78878.1        TDLGDILIMPLNEI-RTPRGNQDDIRDGYASKYSHDNEIARPEYYSLILDR---------	146
+                       :   *                           * .    *   .           
+
+AFK83609.1        GAPGTIEAEVAAATRSGVHRYAFPAGSTPSLVVDLETNNTSR-----------RSSSVQV	192
+AAO78889.1        ---HDVTTELVPTERAAMFRFTYPETKNAYVVIDAFDKGS----------------YVKV	181
+AAO77736.1        ---HDVTTELAPTERAVMFRFTYPETKNAYVIVDAFDKGS----------------YVKV	181
+AAO79067.1        ---YNMTTEIAPTERCAYFRFTFPEASDAYVVVDAFDRGS----------------YVKV	178
+AAO79095.1        ---HDIVTEMTPTERAVLFRFTFPENDHSYVVVDAFDKGS----------------YIKI	174
+BAA76709.1        ---NGIRTEVTATDHGAIYRFEFAGDAS-SILIDQLVNSS----------------KLTI	562
+AFK83608.1        ---NGSAIEATPTDHGAVLRFSYPGAKG-HVLVDKVDGSS----------------KLTY	574
+CAD7619346.1      ---NGIRTEMTPTDHAAMFKFTFTGATS-NLIFDNVNNNG----------------GLTI	564
+AFK83605.1        ---NDVHAELTATTRVGAHRYTFPASTTSHLSFNVGQTLR-----------DAGASSVTW	197
+AFK83606.1        --AGTIEAELTATERTGVQRYTFPATAQANVLLNAGQALN-----------RVTESDVRV	192
+AAO78636.1        ---NGIKTELTATNAMAVERYKFPRSLSAALWIDFASTFE-----------DVATCHYKR	153
+AAO79198.1        ---EDIKAKLTVTERTGMASYEYPADQQYGTIIIGG-GIS----AT-----PIEQAAIVI	173
+AAO79178.1        ---YKIKVESSATPHCGILQFTFPSNEQSRIQIDLARRVGGTST----------SQYVKV	204
+AAO79070.1        ---YGVKAEMTSGVRSGMFRFTYPESDNAFIMIDMNHTLW----QSCE------WSNLRM	169
+AAO78236.1        ---ENINAELTTTQRNGIHRYQYPAGKDAEIILDMDHSADKGSWGRRIINSQIR-----I	183
+AAO76985.1        ---PQVKAELTASIHAALHRYTYHKADSASLLIDLQHGPA---WREEQYHSQVNSCEVNW	197
+AAO78878.1        ---YNIKAELTATDRVGFHRYTYPEGKPVSILIDLREGNG---SNA--YDSYIRKV----	194
+                          :           : :         .                           
+
+AFK83609.1        ---ETRADGTVEL----SGQVTGYFYNAAYTLYYTARTLQPAT-VQTWGDDDRLV-----	239
+AAO78889.1        IPEENKIIGYSTK---NSGGVPE-----NFKNYFVIQFDKPFTFTSGVKENNILP-----	228
+AAO77736.1        IPEENKIIGYSTK---NSGGVPE-----NFKNYFVIQFDKPFTFVSTVFENNILP-----	228
+AAO79067.1        IPEENKIVGYTTR---NSGGVPQ-----NFRNYFVIEFDKPFTFNKVWADYHLVE-----	225
+AAO79095.1        IPEENKIIGYTTR---NSGGVPE-----NFKNYFIIEFDKPFTYKATVENGNLQE-----	221
+BAA76709.1        SG--DTVSGWVDG---GSGW-PG-----RTRMFVYGTFDRAPATAGATTV----------	601
+AFK83608.1        DQATGTISGWVEN---GSGLSVG-----RTRMFVAGTFDRSPTAVGTAAG----------	616
+CAD7619346.1      DAKSGEITGYSDV---KSGLSTG-----ATRLFVYAAFDKPVIKSGKLTG----------	606
+AFK83605.1        -VDDRTLEGWVDN----GGFCGG--TPDKQRYFFSATFDRPVASSGTWGTDARYVAG---	247
+AFK83606.1        -VDDRTVETRITV----RGFCQD--TEP-QTIWTRTTFDRPFVAHGTWDGQVVTAGA---	241
+AAO78636.1        -ISETCIEGYVQA----KNVCG----HGCYKLYFSLNTSQPFQ-----------------	187
+AAO79198.1        -TAPNKCEGYAEG----GNFC---GLRTPYKVYFVAEFDTDAFETGTWKREELMP-----	220
+AAO79178.1        -LDDYTIQGWMKCTPDGGGWGNG-EGNSDYTVYYYAQFSKPLSNYGFWSADIPDEWVRKR	262
+AAO79070.1        -INDSTITGYKLV----KGWGP------ERHVYFTATFSKKLTGLRFVQDKKPVIYNTS-	217
+AAO78236.1        -LNDHAVEGYRII----TGWAK------LRKIYFYMEFSSPILTSTLRDGGRVHE-----	227
+AAO76985.1        -EDAQTLAGHVNN----TVWVD------Q-DYFFVMKFNRPVIDSL-Y----LPM-----	235
+AAO78878.1        --DDYTVEGYRYV----RGWSP------SRKVYFVLKSDQKIEKFTAYDDNTPKL-----	237
+                                                  :                           
+
+AFK83609.1        -------------------DATAQDGVDTGAILTFDP--A-DAGEIGLQVTLSPVSVEQA	277
+AAO78889.1        -------------------NETEVQGNHTGAIIGFAT--Q-KGEIVHARVASSFISYEQA	266
+AAO77736.1        -------------------NETEAKGNHTGAVIGFAT--K-KGEIVHARVASSFISPEQA	266
+AAO79067.1        -------------------THLELQSNHVGAAIGFST--K-KGEQVHAKVASSFISPEQA	263
+AAO79095.1        -------------------NVAEQTTDHAGAIIGFKT--R-KGEQVNARIASSFISFEQA	259
+BAA76709.1        -----------------------GDRNGTARYAAFDT--T-TDRTVELRLSSSFISQDQA	635
+AFK83608.1        -----------------------NRAD--ARFATFET--S-SDKTVELRVATSFISLDQA	648
+CAD7619346.1      -----------------------ESRNNVTGYVRFDTSKD-EDKVVTMKIATSLISVEQA	642
+AFK83605.1        ------------------STTSEVAGGNNGAVAVFDT--T-TDRDVEVSVGVSFVSVDGA	286
+AFK83606.1        -------------------DAASGGEGRRGAYVTFDT--TGGDLDVEAVTAMSYVGADGA	280
+AAO78636.1        ----------------------LEEQKETTACLTFGK----KVRSVEVRIGLSALSSELA	221
+AAO79198.1        -------------------NTTFAEGEYSGVYFTFDV--N-KKKNIQYKIGVSYVSVENA	258
+AAO79178.1        DEVVSIPYLTRISQAPVIKDKKELEGKHLGFFTEFPT--K-EGEQVEMKVGISFVDMEGA	319
+AAO79070.1        ----------------RFRSSYEAWGKNLMACISFDT--K-AGEEVTVKTAISAVSTDGA	258
+AAO78236.1        -------------------NTAVINGTNLHGCFRFGQ--L-NGKPLTCKVALSSVSMENA	265
+AAO76985.1        --------------------GETEKGKRIIATFDL----K-PGDELMMKVALSTTSVEGA	270
+AAO78878.1        --------------------WDQLKVESVKSVLTF----G-NVKEVKIKVAISSVSCDNA	272
+                                                    :          :      *  . : *
+
+AFK83609.1        RIDQQVELG-D----LSFDAIRDRTRAEWNATLGRV-AIDASTATDPTGELQRLFYTHLY	331
+AAO78889.1        ELNLK-ELG-K----DSFDQLVTKGKDIWNREMSKV-DVEDDN-----IDNLRTFYSCLY	314
+AAO77736.1        ELNLK-ELG-K----NSFDQLVANGREIWNREMSKI-EIEDDN-----IDNLRTFYSCLY	314
+AAO79067.1        ELNLK-EIG-N----KTFEQTKEAGRKAWNDVLGRI-KVEDDD-----ENRMRTFYSCLY	311
+AAO79095.1        AANMN-ELG-K----DNIEQLAQKGKDAWNQVLGKI-EVEGGN-----LDQYRTFYSCLY	307
+BAA76709.1        KKNHAFEVE-G----VSFDQAHAAVKDAWNERLSVVHDVKGAS-----DTQLVTLYSSLY	685
+AFK83608.1        RKNLDLEVT-G----KTFTEVKAAAAQAWNDRLGVI-EVEGAS-----EDQLVTLYSNLY	697
+CAD7619346.1      KKNLEQEIGLN----DTFEGLKEKAKTEWNKKLGII-EVEGAS-----EDQLVTLYSNLY	692
+AFK83605.1        RANREAEAT-DEGGQVAFDTVREEARDAWNAELGRA-AI-DAS-----PDQRRIFYTQLY	338
+AFK83606.1        AANLAAEA-------GTFDAVHDAARSAWEERLGLV-RVAQGD-----PDDLRTFYSSLY	327
+AAO78636.1        SWECA-RWE-K----MDFEDVKSRTADQWEKQLSAI-DVKGGK-----KDDRVIFYTSLY	269
+AAO79198.1        RENLKAENA-E----WDFQKIQNQAEAKWNHYLGMI-EVEGTN-----PDRTTQFYTHLY	307
+AAO79178.1        ANNFKQEIA-S----KNFAQVKQEASDLWNKELSRI-RISGGT-----DDEKTVFYTSLY	368
+AAO79070.1        RNNMK-ELD-G----LTFNELRAKGEALWEKELGKY-TLTADR-----K-TKETFYTSAY	305
+AAO78236.1        RQNMEQEAP-H----WDFDRYVAAADADWEKQLGKI-EVKGTE-----V-QKEIFYTALY	313
+AAO76985.1        KKNLQAEIP-D----WNFDGVKLAAHDEWNSYLSRM-DVEGTD-----D-EKTNFYTCFY	318
+AAO78878.1        AMNLQAELS-H----WDFDKVVKMSSDRWNKQLDKM-TVESDD-----EAAKRVFYTAHY	321
+                    :   .          :          *:  :.    :               :*:  *
+
+AFK83609.1        RMFAMPMNATSTSGTYRGVDG----------------AVH-AAQGFTYYDSWATWDDFRK	374
+AAO78889.1        RSMLFPRSFYEIDAKGQVVHY---------------SPYNGKVLPGYMFTDTGFWDTFRC	359
+AAO77736.1        RSMLFPRSFYEIDAKGQVMHY---------------SPYNGEVRPGYMFTDTGFWDTFRC	359
+AAO79067.1        RSVLFPRMFHEVNAKGETVHY---------------SPYNGEIRPGYMFTDTGFWDTFRC	356
+AAO79095.1        RSLLFPRKFYELDANGQPIHY---------------SPYNGQVLPGYMFTDTGFWDTFRC	352
+BAA76709.1        RLNLYPNSQFENTGTEADPVYRYASPVSATTGPRC-------------------------	720
+AFK83608.1        RLNLYPNSQFENTGTAQEPVYRYASPVSATTGSATDTQTNAKIVDGKIYVNNGFWDTYRT	757
+CAD7619346.1      RLFLYPNSAFENVGTTTDPVYKYASPYSAATGQDTATTTGAKIVDGKTYVNNGFWDTYRT	752
+AFK83605.1        KTLLSPTIGSDVDGRYRGMDL----------------EVHQAD-GWDYYQNFSLWDTYRT	381
+AFK83606.1        RSFLAPNVGSDVDGRYRGWDQ----------------EVHAAEPDFTYYQNYSLWDTYRT	371
+AAO78636.1        RTYLSPADVSSPDGAYLGTDG----------------KVY-ISEDFRYYSNWSLWDTFRT	312
+AAO79198.1        RSFIHPNVCSDVNGEYMGADF----------------RVHK--SRSKHYTSFSNWDTYRT	349
+AAO79178.1        HTMIDPRIYTDVDGRYIGGDK----------------KVHEQDGTFTKRTIFSGWDVFRS	412
+AAO79070.1        HAALHPFIFQDSDGQFRGLDK----------------NIE-KAEGFTNYTVFSLWDTYRA	348
+AAO78236.1        HTMIQPNTMSDVNGEYMAADY----------------TTRKVANNETHYTTFSLWDTFRA	357
+AAO76985.1        HALIQPNQISDVDGMYRNAAD----------------SIV-KAGTGTFYSTFSLWDTYRA	361
+AAO78878.1        HTMIAPTLYCDVNGEYRGMND----------------MIY-TDPKKANYTTLSLWDTYRA	364
+                  :    *    .  .                                              
+
+AFK83609.1        -FSVIAYIDPALYRDMVQSLVYLFADAEATGTGGGLGGFV---HSVPTVRWERSSVVVAD	430
+AAO78889.1        LFPFLNLMYPSMNQKMQEGLVNAYL--E----SGFLPEWASPG-HRDCMVGNNSASVVAD	412
+AAO77736.1        LFPFLNLMYPSMNQKMQEGLVNTYK--E----SGFLPEWASPG-HRDCMVGNNSASVVAD	412
+AAO79067.1        LFPFVNLIYPSMGEKMQEGLLNTYL--E----SGFFPEWASPG-HRGCMVGNNSASVVAD	409
+AAO79095.1        LFPLLNLMYPSVNKEMQEGLINTYL--E----SGFFPEWASPG-HRGCMVGNNSASILVD	405
+BAA76709.1        -------SNPDVTEDLVDGFVQQYR--D----GGWVARWSSPG-YADLMTGTSSDVAFAE	766
+AFK83608.1        AWPAYSLLYPELAAELVDGFVQQYR--D----GGWIARWSSPG-YADLMTGTSSDVAFAD	810
+CAD7619346.1      AWPAYSLLTPTFAGELIDGFVQQYR--D----GGWIARWSSPG-FANLMPGTSSDVAFAD	805
+AFK83605.1        QATLHALLLPERAQDIVRSMYQHRV--E----GGWLPRWSLGALETNIMAGDPVTPWLAE	435
+AFK83606.1        QQQLLYLLAPDESADMALSLVRQGQ--Q----GGWLPRWGYGTVETNIMTGDPATPFLVS	425
+AAO78636.1        KFPLLVLTEPAKMRDMATSLIHLYATGK----K----DWSTGFESTPTVRTEHAVILLLD	364
+AAO79198.1        QIQLLSMLDPEVASDIVISHQLFAEQ-S----GGSFPRWVMANIETGVMQGDPTPILIAN	404
+AAO79178.1        QFPLQAMINPRLVSDALNSLITMADQSR----REYYERWELLNSYSGCMIGNPALSVLAD	468
+AAO79070.1        LHPWFNLVQQEVNADIANSMLAHYDKSV----EKMLPIWSFYGNETWCMIGYHAVSVLAD	404
+AAO78236.1        SHPLYTLLEPERVTDFVKSMIRQYE--Y----YGYLPIWQLWGQDNYCMIGNHSIPVITD	411
+AAO76985.1        AHPFYTLMVPERVDDFVNSLIEQGE--V----QGFLPIWALWGKENFCMIGNHGVSVIAE	415
+AAO78878.1        LNPLMTIIQPEMVDNVINSMLSIYR--Q----QDKLPIWPLMSGETNCMPGYSSVPVIAD	418
+                                .   .                   :         :        . .
+
+AFK83609.1        AIAKGFDGFDRLDEAYPALQRLVGQYSAD------------ELRRGYVAGNPG-------	471
+AAO78889.1        AYIKGLRGYD-IETLWEALKHDA-NAHLR-GTASGRLAYDAYNKLGYVPNNIGI------	463
+AAO77736.1        AYIKGLRGYD-IETLWEALKHGA-NAHLR-GTASGRLGYESYNQLGYVANNIGI------	463
+AAO79067.1        AFMKNVTKAD-AEKMYEGLLKGANSVHPR-VSTTGRRGYEYYNKLGYVPYDVKI------	461
+AAO79095.1        AYMKGVKVDD-IKTLYEGLIHGTENVHPE-VSSTGRLGYEYYNKLGYVPYDVKI------	457
+BAA76709.1        AYLAGALSTDTALEAYDAAVKNA-TVLPA-SNAVGRKGLGQSIFLGYTEET--T------	816
+AFK83608.1        AYLKGSLPTGTALEAYDAALRNA-TVAPP-SNAVGRKGLQTSPFLGFTPES--T------	860
+CAD7619346.1      AYLKGVTNFD-VQSFYQSAIRNA-EAVSP-NAGTGRKGLTTSIFDGYTNTS--T------	854
+AFK83605.1        NFALGTVPDDIADELWDYLVENATTTPPDDVASVGRRSTEFYAEHGHVPFYPENEGGLGG	495
+AFK83606.1        AWRQGLLAGH-EEEAYAVLRENADGVPPADSPFNGRAANVEYLRDGFVPHEPARSGKPGD	484
+AAO78636.1        AYRKGITNLD-FRKGYAGMKQEMERLPM--------------------------------	391
+AAO79198.1        AYAFGARNYD-PKPIFKIMRKGAEEPGSKSQDVETRPGLKQYLDKGY-------------	450
+AAO79178.1        AYMKGIRTYD-VEKAYQYAVNTSAKFGND--------------SLGYTPEP---------	504
+AAO79070.1        MIVKEVKGFD-YERAYEAMKTTAMNSNYDCLP--------EYREMGYVPFDKEA------	449
+AAO78236.1        AILKGIPGID-MEKAYEAVYNSSVTSHP-NSPF------EVWEKYGFMPENIQT------	457
+AAO76985.1        AYRKGFRGFD-AERAFNMVKKTQTVSHPLKSDW------EVYTKYGYFPTDLTK------	462
+AAO78878.1        AYLKGFTGFD-AEEALTAMKATATYEGQNGVP--------YVMAKGYIPADKIH------	463
+                                                                              
+
+AFK83609.1        ----------ASVQRGYDQYGLSVIAD-ELGL------------TEEAETLREQASWPIE	508
+AAO78889.1        -----GQNVARTLEYAYNDWTIYTLGK-KLGK-----------PASEIDIFKQRALNYKN	506
+AAO77736.1        -----GQNVARTLEYAYNDWAIYTLGK-KLGK-----------PENEIDIYKKHALNYKN	506
+AAO79067.1        -----NENAARTLEYAYDDWCIYRMGE-KLGR-----------PAEELELYKSRSQNYRN	504
+AAO79095.1        -----NENAARTLEYAYDDWCIYRLAK-ELKR-----------PKKEISLFAKRAMNYKN	500
+BAA76709.1        -----HESASWGLEGYINDFGIAEMAK-ALSEDPKTPADRVAQLKEEATYFEARAEHYVE	870
+AFK83608.1        -----HESVSWGLEGLVNDFGIGNMAA-ALAEDPATPEERRETLREESAYFLERATHYVE	914
+CAD7619346.1      -----GEGLAWAMDGYINDFGIANLAK-ALKEKGDKSDPYYANYAADYQYFLNRAQNYVH	908
+AFK83605.1        QFEEYRHGGSATLELALADASLGAAAE-RTGR-------------EGGQAFLDKGRNWRN	541
+AFK83606.1        --YDLQHGASATMEYALADAMLSTMAR-GLGH------------DEDADRYAARGQSYRN	529
+AAO78636.1        ------RSPDQKMESAYDLWAMAKIAE-IIGE------------KADSEQYRQRSVSL--	430
+AAO79198.1        ------YNASIQLEYTSADFAIGQFALHAVGD------------EFASWRYFHFARSWKN	492
+AAO79178.1        ------LSISYTLEYAYADWCVAQLAK-ALGK------------EEDAKRFYEKGQAYRN	545
+AAO79070.1        ------ESVSKTLEYAYDDYCIAQAAK-KLGK------------EDDYHYFLNRALSYQT	490
+AAO78236.1        ------QSVSITLEQAFDDWCVAQLAA-KLNK------------DADYQRFHKRSEYYRN	498
+AAO76985.1        -----AESVSSTLESVYDDYAAADMAR-RMGK------------EEDAAYFAKRADYYKN	504
+AAO78878.1        ------EATSIAMEYAVDDWGIAAMAQ-KMGK------------TADYETFSKRAHYYKN	504
+                              ::           .                            .     
+
+AFK83609.1        KLTKPGAWTAADGTQVGLLTPRAADGSWQSADHAK--------FEAAGLYQGTLWQYHWY	560
+AAO78889.1        VYHPKRK---L-------MVGKDDKGVFNP---KFDAV-----DWSGEFCEGNSWHWSFC	548
+AAO77736.1        VYHPERK---L-------MVGKDNKGVFNP---NFDAV-----DWSGEFCEGNSWHWSFC	548
+AAO79067.1        LFDPETK---L-------MRGKNADGTFQT---PFNPF-----KWGDAFTEGNSWHYTWS	546
+AAO79095.1        LFDKESK---L-------MRGRNEDGTFQS---PFSPL-----KWGDAFTEGNSWHYTWS	542
+BAA76709.1        MFNPEAG---T-------FTSRNADGTWTSGA-DFDKK-----AWGGAFTEASAWTFGFH	914
+AFK83608.1        LFDPEVD---F-------FVPRHEDGTWAVDPETYDPE-----AWGGGYTETNGWNFAFH	959
+CAD7619346.1      MFNPSIE---F-------FNGRTANGAWRSTPDNFNPA-----VWGSDYTETNGWNMAFH	953
+AFK83605.1        LWNPDVE---LSGGFQGMVNAKRPTGEFVTLPELTD-------VTRSGFHEGVPWQYQWM	591
+AFK83606.1        VFDPRTG---N-------FRARNADGFFV--GDADP-------AHSDGFHEGTAVQYQWL	570
+AAO78636.1        -----------------------FEETWKKEFMNVTPAF--EVMKNNGLYQGTRWQYRWA	465
+AAO79198.1        LYNSDTG---W-------LQSRNPDGSWKSL--------------GEDFRESTYKNYFWM	528
+AAO79178.1        MFDAEKG---W-------FRPRNADGSWKAWPENA------LTEEWYGCIESNAYQQGWF	589
+AAO79070.1        LIDPETK---Y-------MRGRDSKGDWRTPFTPVAYQGPGSVHGWGDITEGFTMQYTWY	540
+AAO78236.1        LFHPKTK---F-------FQSKNDKGEWIEPFDPYQYGG----NGGHPFTEGNAWQYFWY	544
+AAO76985.1        LFDSQTN---F-------MRPRKADGTWKSPFNPSDVGHA--ESTGGDYTEGNAWQYTWH	552
+AAO78878.1        YFDSSIH---F-------IRPKLEDGSWRTPYDPARSIH-----GVGDFCEGNGWQYTFF	549
+                                             :                      :       : 
+
+AFK83609.1        DAYDMDALVEAMGGHEAARLGMRHMFGEHAPDD-----------------GKAMLHSNAN	603
+AAO78889.1        VFHDPQGLIDLMGGKKEFNNMMDSVFVIPGKQG--MESRGMIHEMREMQVMNMGQYAHGN	606
+AAO77736.1        VFHDPQGLINLMGGKKEFNAMMDSVFVISGKLG--MESRGMIHEMREMQVMNMGQYAHGN	606
+AAO79067.1        VFHDVQGLADLMGGRKMFVSMLDSVFNLPPIFD-DSYYGGVIHEIREMEIANMGNYAHGN	605
+AAO79095.1        VFHDPQGLIDLMGGKEMFVTMMDSVFAVPPIFD-DSYYGQVIHEIREMTVMNMGNYAHGN	601
+BAA76709.1        APHDVDGLAALYGGRQGLLDVMHDFLTTREKADY-----SGIHEAREARDVRLGMLGMSN	969
+AFK83608.1        APQDGQGLANLYGGKQGLEDKLDEFFSTPEKGA----GNGGIHEQREARDVRMGQWGMSN	1015
+CAD7619346.1      VPQDGQGLANLYGGKEGLATKLDQFFSTSETGLFPGSYGGTIHEMREARDVRMGMYGHSN	1013
+AFK83605.1        VPQDVTGLQEVMGGEDGFVERLDYYFDQPALAA-NPGVSPSTWAKGGSSYYTTIRYNPGN	650
+AFK83606.1        VPQDVPGLFDLMGGTDAAVDRLDAFFAYDELVADPPHVASEVWVNGTYDYYGWETYNPNN	630
+AAO78636.1        APQYIDKMIEWVG-QDSLRLQLTYFFDHHL-------------------------YNQGN	499
+AAO79198.1        VPYDIAGLVEIIGGKEKAEKRLDEFFTRLDAG------------------YNDAWFASGN	570
+AAO79178.1        VPHDVPGMVELMGGKEEVIANLTNLFDHTPSDM-----------------LWNDYYNHAN	632
+AAO79070.1        VPQDVQGYINEA-GKELFRKRLDELFTVELPDDIPGAHDIQ---------GRIGAYWHGN	590
+AAO78236.1        VPHNIQALMELTGGTKAFEQKLDTFFTSTYK-SEQMNHNAS---------GFVGQYAHGN	594
+AAO76985.1        VQHDVPGLIALFGGEEPFLNKLDSLFTVKL---ETTQADVT---------GLIGQYAHGN	600
+AAO78878.1        APQDPYGLISLFGGDKPFTSKLDSFFTNNDSMGEGASSDIT---------GLIGQYAHGN	600
+                                 .     :   :                                 *
+
+AFK83609.1        EIDLQAPYLFNYTGEPSLTQKWARAIYTKETWNRYIATGSSSAVPSGGGEFTPPLKTKVY	663
+AAO78889.1        QPIQHMVYLYNYSGEPWKAQHWVREIMDK-----------------------------LY	637
+AAO77736.1        QPIQHMVYLYNYSSEPWKAQYWIREIMNK-----------------------------LY	637
+AAO79067.1        QPIQHMIYLYNYAGEPWKAQYWLREVMNR-----------------------------LY	636
+AAO79095.1        QPIQHMIYLYDYAGQPWKAQYWLRQVMDR-----------------------------MY	632
+BAA76709.1        QIAHHIPYVLAEAGDPSGAQELIRDIQDR-----------------------------LF	1000
+AFK83608.1        QVSHHIPWLYDAAGAPSKAQEKVREVTRR-----------------------------LF	1046
+CAD7619346.1      QPSHHIAYMYDYAGQPWKTQEKVREALNR-----------------------------LY	1044
+AFK83605.1        EPTIMNAWLYGYVGQPWKTNDVLAANLNR------------------------------F	680
+AFK83606.1        EPNLHAPYVYLWTGQPWKTTDVVRAASTL------------------------------F	660
+AAO78636.1        EPDIHVPYLFNRLGAPEKTQQIVRSLMTEPMIHKY----------GGNSEFKTPYLGKAF	549
+AAO79198.1        EPSFHIPWIYNWIGRPYKTQEIINRVLNE-----------------------------QY	601
+AAO79178.1        EPVHFVPFLFNQLDVPWYTQKWTRYICKN-----------------------------AY	663
+AAO79070.1        EPCHHVAYLYNYLKEPWKCQKWIRTIVDR-----------------------------FY	621
+AAO78236.1        EPSHHVAYLYNFAGQPWKTQKYVSHILNT-----------------------------LY	625
+AAO76985.1        EPSHHVTYLYALAGRPERTQELIREIFDT-----------------------------QY	631
+AAO78878.1        EPSHHIAYLYTYAGEQWKTAEKVRFIMSD-----------------------------FY	631
+                  :      ::                                                  :
+
+AFK83609.1        RLD--PRGMLPTMDNDAGTMSTMFVAAAVGLFPVTAGSSQFQVGSPFFDSTTITY----D	717
+AAO78889.1        TAG--PDGYCG--DEDNGQTSAWYVFSALGFYPVCPGTDQYILGTPLFKSAKLHL----E	689
+AAO77736.1        TAG--PDGYCG--DEDNGQTSAWYVFSALGFYPVCPGTDEYIIGTPLFKSAKLHL----E	689
+AAO79067.1        FAT--PDGYCG--DEDNGQTSAWYVFTALGFYPVCPGSNEYVMGAPYFKKATITL----E	688
+AAO79095.1        TPG--PDGYCG--DEDNGQTSAWYVFSALGFYPVCPGTDEYVMGTPLFKKATLHF----E	684
+BAA76709.1        VGSDIGQGYPG--DEDNGEFSAWYVFSALGFYPLEVGSGDYTIGSPLFDSATLSI----G	1054
+AFK83608.1        VGSEIGQGYPG--DEDNGEMSSWWIFASLGFYPLQVGSDQYAVGSPLFDKATVHL----P	1100
+CAD7619346.1      IGSAIGQGYSG--DEDNGEMSAWYILSAMGFYPLKMGTPEYAIGAPLFKKATIHL----E	1098
+AFK83605.1        PDT--PGGGVG--NDDLGTLAAWYVMASLGFEPVMPGSGILALNAPKVQAATLTTDAGA-	735
+AFK83606.1        TDG--PDGVTG--NDDLGTMSAWHVLSSIGVYPIVPGADLWGLTTPLFDDVTITLDPEVF	716
+AAO78636.1        KNA--PEGYSPEMDEDDGTMSAWYVFGAMGFYPLLVGDEYYDLTSPLFDRVLLRL----T	603
+AAO79198.1        SSK--IDGLPG--NDDLGTMGAWYVFACIGLYPEIPGVGGFTVNTPIFSSVKVHL----K	653
+AAO79178.1        ANK--VEGIVG--NEDVGQMSAWYILAASGIHPSCPGNTRMEITSPVFDKVEFNLDSKYH	719
+AAO79070.1        GNT--PDALSG--NDDCGQMSAWYMFNCIGFYPVAPSSNIYNIGSPCAEAITVRM----S	673
+AAO78236.1        NNT--SSGYAG--NDDCGQMSAWYVFSAMGFYPVNPADGRYIIGSPLLDECTLKL----A	677
+AAO76985.1        KNK--PDGLCG--NDDCGQMSAWYMFSAMGFYPVDPVSGDYVFGAPQLPKIVLHL----A	683
+AAO78878.1        TDQ--PDGIIG--NEDCGQMSAWYLLSAMGFYQVNPSDGVFAFGSPRFKKIEVKV----R	683
+                         .     ::* *  .:  :  . *.           . :*      .       
+
+AFK83609.1        DGSAFTVTADGVSEDAFYVQSATLDGATFGNTWVDYATVVGGADLAFRMGEQPSD-WGTD	776
+AAO78889.1        NGKTVTIKASNNNTDNRYVKDMKVNGKAFTRNYLTHDQLLKGANIQYQMSPTPNKQRGTT	749
+AAO77736.1        NGKTITIKADNNQLDNRYIKEMKVNGKSQTRNFLTHDQLIKGANIQFQMSPVPNKQRGTT	749
+AAO79067.1        NGKKLEISAPKNSDANRYIRSLNYNGKNYTKNYLNHFDLLKGGRLVFDMDNKPNKGRGIN	748
+AAO79095.1        NGNSLVIDAPNNSTENFYIDSMSFNGADHTKNYLRHEDLFKGGTIKVDMSNRPNLNRGTK	744
+BAA76709.1        -GKELVINAPGASAGEKYVAGVSINGAPITETTFDGDLVRNGGTLDFTMSATPSA-WGAK	1112
+AFK83608.1        DGD-LVVNAENNSVDNVYVQSLAVDGEARTSTSLSQADLSGGTTLDFVMGPEPSD-WGTG	1158
+CAD7619346.1      NGKSIVINAPNNSKENKYVQSMKVNGKAYAKTSILHADIANGAVIDFEMGSKPSK-WGSG	1157
+AFK83605.1        ---TLRIDAAGA------------------------------------------------	744
+AFK83606.1        GRDSLRLTADGVAPDTHYTQSVSLGGEPLDRAWVTGDELTAAGTLDVTVGTEPSA-WATD	775
+AAO78636.1        NGNVLTIQTEGRKKKDAPIKSIHFNGKKIADYRISHNELIKGGELIYNYK----------	653
+AAO79198.1        KG---DIVIKGGSEKDIYIKSMKLNGKSYESTWIDWDQLNSGATIEYRTSGKPDMKWGAK	710
+AAO79178.1        QGKVFTIIAHNNNTNNLYIQKALLNGKEYNKCYLDFAEIAAGGTLELFMGDKPNTEWGVL	779
+AAO79070.1        NGKNIEMTADNWSPKNLYVKELYVNGKKYDKSYLTYDDIRDGVKLRFVMSGKPNYKRAVS	733
+AAO78236.1        GNKEFRIRTIRKSPEDIYIQSVTLNGKKHKDFFITHQDIMNGGTMVFKMGKKPSG-WGK-	735
+AAO76985.1        DGKTFTVIAENLSKEHKYVDSITLNGEPYTKNTISHEDILKGGTLVYKMK----------	733
+AAO78878.1        GGKVFTVEAPNNSKDNIYIQKVYLNGKPYHKSYITYDDIINGSTLKFEMGKKPAKNFGKA	743
+                        :                                                     
+
+AFK83609.1        TAPAFSMSTATDEPAEGPRVSAEPTTVQTGDGGALDATVTLTLDGARLAAPAGTDLVTSG	836
+AAO78889.1        EKDIPYSLSFE-------------------------------------------------	760
+AAO77736.1        EKDVPYSLSFE-------------------------------------------------	760
+AAO79067.1        ESDFPYSFSRDNK-----------------------------------------------	761
+AAO79095.1        EEDMPYSFSKE-------------------------------------------------	755
+BAA76709.1        DLGEPLDV---------------PTTLVDATKVG-----------------RGVLTATDG	1140
+AFK83608.1        EDDAPPSLTEGDE----P-----PTPVQDATTAG-------------L----GTTTVADG	1192
+CAD7619346.1      DQDILQSITPGST----DGTSLSPLPLRDVTDRL-------------IAAEKGAVTVSD-	1199
+AFK83605.1        ------------------------------------------------------------	744
+AFK83606.1        PAASPGAVVPADG----TVE-RL-------------------------------------	793
+AAO78636.1        ------------------------------------------------------------	653
+AAO79198.1        --VVPPSFP---------------------------------------------------	717
+AAO79178.1        SNI---------------------------------------------------------	782
+AAO79070.1        DEAVPPSISLPEK----TMKYKS-------------------------------------	752
+AAO78236.1        ------------------------------------------------------------	735
+AAO76985.1        ------------------------------------------------------------	733
+AAO78878.1        SANRPIVLNK--------------------------------------------------	753
+                                                                              
+
+AFK83609.1        AASV--VGLPDGV-TAAVTVA--SPTALTVSLTGTASADARFFVHLRDAALADGVAAASL	891
+AAO78889.1        ------------------------------------------------------------	760
+AAO77736.1        ------------------------------------------------------------	760
+AAO79067.1        ------------------------------------------------------------	761
+AAO79095.1        ------------------------------------------------------------	755
+BAA76709.1        T---PVGSLVDDSMNSKVTFSGDTAEVVWTSQSGPVS-IGQYTLTSA--AKANAPSSWKL	1194
+AFK83608.1        DATTSAAALTDNTSGTRTTFATTTPSITWAGNGIRPT-VGSYTLTSG-ASGTASPSAWTL	1250
+CAD7619346.1      --EGNGQLLFDNTSNTQLSMKSKTPSIVYQFKEGKQN-VKMYTLTSSKASQNEDPKSWVL	1256
+AFK83605.1        -----------------------N------------------------------------	745
+AFK83606.1        -------------------FVGATPRQPVLAPGGRTE-VAVQVVAQG-----AGTSSGTL	828
+AAO78636.1        ------------------------------------------------------------	653
+AAO79198.1        ------------------------------------------------------------	717
+AAO79178.1        ------------------------------------------------------------	782
+AAO79070.1        -------------------SIG--------------------------------------	755
+AAO78236.1        ------------------------------------------------------------	735
+AAO76985.1        ------------------------------------------------------------	733
+AAO78878.1        ------------------------------------------------------------	753
+                                                                              
+
+AFK83609.1        ----QGQGVSVRSPLRLSVASAERDALAALVDDAVLVRHGNYSSVTFDRFSTALTKAQEA	947
+AAO78889.1        ------------------------------------------------------------	760
+AAO77736.1        ------------------------------------------------------------	760
+AAO79067.1        ------------------------------------------------------------	761
+AAO79095.1        ------------------------------------------------------------	755
+BAA76709.1        EGSLDGTTWTEL-----DSRSAQSFSWDTQTRPFTAANQDGYTSVKLT-----LK---TD	1241
+AFK83608.1        EGSDDGETWTTL-----DERSGEQFRWALQTRPFTVAEPTAFARYRVT-----VT---AT	1297
+CAD7619346.1      KGSNDGKSWSVL-----DQRKNETFQWRQYTRAFTIQHPGKYSQYKLE-----IT---EN	1303
+AFK83605.1        ------------------------------------------------------------	745
+AFK83606.1        EVTSDGAVTATT----------DLAEWT--------------------------------	846
+AAO78636.1        ------------------------------------------------------------	653
+AAO79198.1        ------------------------------------------------------------	717
+AAO79178.1        ------------------------------------------------------------	782
+AAO79070.1        ------------------------------------------------------------	755
+AAO78236.1        ------------------------------------------------------------	735
+AAO76985.1        ------------------------------------------------------------	733
+AAO78878.1        ------------------------------------------------------------	753
+                                                                              
+
+AFK83609.1        LGDEAATSIALRFAADRLGAAADALDLTGGGYRTLEAEQSEAWSGGELKNEANSSSGNLG	1007
+AAO78889.1        ------------------------------------------------------------	760
+AAO77736.1        ------------------------------------------------------------	760
+AAO79067.1        ------------------------------------------------------------	761
+AAO79095.1        ------------------------------------------------------------	755
+BAA76709.1        A--ATLALSEIELFASA-----S----AADGLS---------------------------	1263
+AFK83608.1        SGSGALSLAEVELLADP-----K----ESGAEEL--------------------------	1322
+CAD7619346.1      AGAEVTTLAELELLGYD-----D----VTNSYQA--------------------------	1328
+AFK83605.1        ------------------------------------------------------------	745
+AFK83606.1        ----------------------A----ES-------------------------------	849
+AAO78636.1        ------------------------------------------------------------	653
+AAO79198.1        ------------------------------------------------------------	717
+AAO79178.1        ------------------------------------------------------------	782
+AAO79070.1        ------------------------------------------------------------	755
+AAO78236.1        ------------------------------------------------------------	735
+AAO76985.1        ------------------------------------------------------------	733
+AAO78878.1        ------------------------------------------------------------	753
+                                                                              
+
+AFK83609.1        GVRSGSWVQYRDMTFETAAGDTPPRFLTVRYDTSFAPTDTPSTVRVHAGDVSGPVVATVD	1067
+AAO78889.1        ------------------------------------------------------------	760
+AAO77736.1        ------------------------------------------------------------	760
+AAO79067.1        ------------------------------------------------------------	761
+AAO79095.1        ------------------------------------------------------------	755
+BAA76709.1        --------------IAA----------------------GAPQRVAVDTVFTGPLATVVG	1287
+AFK83608.1        -------------TLSA----------------------APDRDGVTGREVSGSFATLTG	1347
+CAD7619346.1      -------------VYEL----------------------MEQF--KQSKDLTGPMAVQLN	1351
+AFK83605.1        ------------------------------------------------------------	745
+AFK83606.1        ------------------------------------------------------------	849
+AAO78636.1        ------------------------------------------------------------	653
+AAO79198.1        ------------------------------------------------------------	717
+AAO79178.1        ------------------------------------------------------------	782
+AAO79070.1        ------------------------------------------------------------	755
+AAO78236.1        ------------------------------------------------------------	735
+AAO76985.1        ------------------------------------------------------------	733
+AAO78878.1        ------------------------------------------------------------	753
+                                                                              
+
+AFK83609.1        LKGTSGWGKYTEVTAELGDVQALVDAQVVTFELLAPSGRSWVGNFD-WFRFSAEDPAAPG	1126
+AAO78889.1        ------------------------------------------------------------	760
+AAO77736.1        ------------------------------------------------------------	760
+AAO79067.1        ------------------------------------------------------------	761
+AAO79095.1        ------------------------------------------------------------	755
+BAA76709.1        TETD---ASGYTVTVDYGDGVPVTDV------------KLTRDDLGGWKVSAPHTFTAPG	1332
+AFK83608.1        VEGD---VAALDVQVAFGDGS-EPVA-----------GTLRAGAFGGYAVDAAHTWTAPG	1392
+CAD7619346.1      NS-L---TTSLD---HFKKDHKDQAI-----------KH-----LEDFL----KHLNNKG	1384
+AFK83605.1        ------------------EKLPSYVA-----------GL---------------------	755
+AFK83606.1        ------------------DGLPATVE-----------GTVT---------IEAPADAEPG	871
+AAO78636.1        ------------------------------------------------------------	653
+AAO79198.1        ------------------------------------------------------------	717
+AAO79178.1        ------------------------------------------------------------	782
+AAO79070.1        ------------------------------------------------------------	755
+AAO78236.1        ------------------------------------------------------------	735
+AAO76985.1        ------------------------------------------------------------	733
+AAO78878.1        ------------------------------------------------------------	753
+                                                                              
+
+AFK83609.1        QPGESPTVTIEAEDWT---ASSGRGLKKESSTWTSGPVTNVGGTADGDWIAYGEVDLGEL	1183
+AAO78889.1        ------------------------------------------------------------	760
+AAO77736.1        ------------------------------------------------------------	760
+AAO79067.1        ------------------------------------------------------------	761
+AAO79095.1        ------------------------------------------------------------	755
+BAA76709.1        TYSA--AVTVRDSAG--AVAQTTASVTAFRDETLVGA--------------FNNVCIGDL	1374
+AFK83608.1        VYPV--TVTVSGEGIETVSASSYVSVSLLREGSLLAA--------------YDNVCIGDA	1436
+CAD7619346.1      LQD---RISSKAKGVLSADANQ-LIVLLARD-----------------------------	1411
+AFK83605.1        ----------------------EVDGVAHTAAWLDVA------------------ALQDG	775
+AFK83606.1        LHTV--RLVVRDAAGTE--AVREVSVVVSGESWIADA--------------FDNVGIGDA	913
+AAO78636.1        ------------------------------------------------------------	653
+AAO79198.1        ------------------------------------------------------------	717
+AAO79178.1        ------------------------------------------------------------	782
+AAO79070.1        ------------------------------------------------------------	755
+AAO78236.1        ------------------------------------------------------------	735
+AAO76985.1        ------------------------------------------------------------	733
+AAO78878.1        ------------------------------------------------------------	753
+                                                                              
+
+AFK83609.1        PLGELSV----HYVHNSNRSGNNSALSVYLDAFDPANPGEPF-VTVPLPTTGSSWTADGT	1238
+AAO78889.1        ------------------------------------------------------------	760
+AAO77736.1        ------------------------------------------------------------	760
+AAO79067.1        ------------------------------------------------------------	761
+AAO79095.1        ------------------------------------------------------------	755
+BAA76709.1        GVTAANCDSQGHGYFRDKI-----NADGFVQGQTLTIPGSTLTYDLPAIPAGAPDNITGE	1429
+AFK83608.1        GTTVGSCDGQGVFFDRAQL-----AAKGFVQGERATVPGTDLAFDVPAVPAGQPDNATGD	1491
+CAD7619346.1      ------------------------------------------------------------	1411
+AFK83605.1        GT---------------------------------------LDFDLS-------------	783
+AFK83606.1        GAANANLDGSGAYLLRDLL-----ADLGAVQGLELTVPGTDLTYTLGAPRAGAPDNVAAS	968
+AAO78636.1        ------------------------------------------------------------	653
+AAO79198.1        ------------------------------------------------------------	717
+AAO79178.1        ------------------------------------------------------------	782
+AAO79070.1        ------------------------------------------------------------	755
+AAO78236.1        ------------------------------------------------------------	735
+AAO76985.1        ------------------------------------------------------------	733
+AAO78878.1        ------------------------------------------------------------	753
+                                                                              
+
+AFK83609.1        -ATVVLPETVQGT-HEVFVRLSTEPYADHPYVANLDSLTFAPGGPTSVVVESEAWTSNSG	1296
+AAO78889.1        ------------------------------------------------------------	760
+AAO77736.1        ------------------------------------------------------------	760
+AAO79067.1        ------------------------------------------------------------	761
+AAO79095.1        ------------------------------------------------------------	755
+BAA76709.1        GQTVKVSAG-AGAKQIAFIGTATE-----SNRDSVATLHFTDGSTQQVTISLGDWVGASG	1483
+AFK83608.1        GQTIELDVP-ADAEQLSVIGTGTE-----KNQQATGTLTFDDGSTQPIDLSFGDWSGAAR	1545
+CAD7619346.1      ------------------------------------------------------------	1411
+AFK83605.1        -------------------GTS-----------AG-----------------LTWGTGAA	796
+AFK83606.1        GEVLEVPEHLRSARHLSVVGTSTH-----GTHGGGLVLGFADGSSQTVDVRLSDWCTGSP	1023
+AAO78636.1        ------------------------------------------------------------	653
+AAO79198.1        ------------------------------------------------------------	717
+AAO79178.1        ------------------------------------------------------------	782
+AAO79070.1        ------------------------------------------------------------	755
+AAO78236.1        ------------------------------------------------------------	735
+AAO76985.1        ------------------------------------------------------------	733
+AAO78878.1        ------------------------------------------------------------	753
+                                                                              
+
+AFK83609.1        RGLKNESSTWTSGPVTNVGGTADGDWLAYGEIDLGSAALDQLSVHYVHNSNRSGRNSALS	1356
+AAO78889.1        ------------------------------------------------------------	760
+AAO77736.1        ------------------------------------------------------------	760
+AAO79067.1        ------------------------------------------------------------	761
+AAO79095.1        ------------------------------------------------------------	755
+BAA76709.1        NPYKGNTV------LTISEGRL------------------------------SGTGAESS	1507
+AFK83608.1        NPVFGNIP------VAVTDSRL------------------------------RGGSPQTG	1569
+CAD7619346.1      ------------------------------------------------------------	1411
+AFK83605.1        D--R--------------------------------------------------------	798
+AFK83606.1        E--PGNIT------VAKA--GA------------------------------RGDRENVQ	1043
+AAO78636.1        ------------------------------------------------------------	653
+AAO79198.1        ------------------------------------------------------------	717
+AAO79178.1        ------------------------------------------------------------	782
+AAO79070.1        ------------------------------------------------------------	755
+AAO78236.1        ------------------------------------------------------------	735
+AAO76985.1        ------------------------------------------------------------	733
+AAO78878.1        ------------------------------------------------------------	753
+                                                                              
+
+AFK83609.1        VYLDAFDPANPGEPFVTVPLANTGSSWTTDGTAVVDLPSTVRGKHQVWVRLSTEAYADHP	1416
+AAO78889.1        ------------------------------------------------------------	760
+AAO77736.1        ------------------------------------------------------------	760
+AAO79067.1        ------------------------------------------------------------	761
+AAO79095.1        ------------------------------------------------------------	755
+BAA76709.1        VK--------NTAIYAT---------------APIDLAVDGDGAPKVVESLTMP---KE-	1540
+AFK83608.1        -T--------PAAFFAT---------------APITLPEGK-----RPVSLTLP---DQ-	1596
+CAD7619346.1      ------------------------------------------------------------	1411
+AFK83605.1        ------------------------------------IP----------------------	800
+AFK83606.1        KI--------GCGLYAT---------------APVAIPEGK-----VLTSVTLP------	1069
+AAO78636.1        ------------------------------------------------------------	653
+AAO79198.1        ------------------------------------------------------------	717
+AAO79178.1        ------------------------------------------------------------	782
+AAO79070.1        ------------------------------------------------------------	755
+AAO78236.1        ------------------------------------------------------------	735
+AAO76985.1        ------------------------------------------------------------	733
+AAO78878.1        ------------------------------------------------------------	753
+                                                                              
+
+AFK83609.1        YVANLDSMRFFTDAYDVEVPPTDTAALAAVVDAAGTPEAEIARYGRIDARVFTRE----L	1472
+AAO78889.1        ------------------------------------------------------------	760
+AAO77736.1        ------------------------------------------------------------	760
+AAO79067.1        ------------------------------------------------------------	761
+AAO79095.1        ------------------------------------------------------------	755
+BAA76709.1        -------------------------------------TGSL-NDGRVHIFAIASDGDRAA	1562
+AFK83608.1        -------------------------------------PGELSRDGRIHVVAVAHDGTFAE	1619
+CAD7619346.1      ------------------------------------------------------------	1411
+AFK83605.1        ------------------------------------------------------SVS---	803
+AFK83606.1        ------------------------------------------SDERFHVFAIATDAT---	1084
+AAO78636.1        ------------------------------------------------------------	653
+AAO79198.1        ------------------------------------------------------------	717
+AAO79178.1        ------------------------------------------------------------	782
+AAO79070.1        ------------------------------------------------------------	755
+AAO78236.1        ------------------------------------------------------------	735
+AAO76985.1        ------------------------------------------------------------	733
+AAO78878.1        ------------------------------------------------------------	753
+                                                                              
+
+AFK83609.1        AAARSVLADAGATQAQADERARRLGLATDQLVPAERRRLENL----VASAEALTDEGYSP	1528
+AAO78889.1        ------------------------------------------------------------	760
+AAO77736.1        ------------------------------------------------------------	760
+AAO79067.1        ------------------------------------------------------------	761
+AAO79095.1        ------------------------------------------------------------	755
+BAA76709.1        AAALSVAPGSVGEQVAGEEFDAALATVAGGQG--ETSAVVNWGDGSPVGPVSIVDGSVSG	1620
+AFK83608.1        HPALEVTAAEGVTLAVGQTSDVALAQVAGGREGADLRAAVTWGDGSDVAAGAVTDGSVSG	1679
+CAD7619346.1      ------------------------------------------------------------	1411
+AFK83605.1        ------------------------------------------------------------	803
+AFK83606.1        ------------------------------------------------------------	1084
+AAO78636.1        ------------------------------------------------------------	653
+AAO79198.1        ------------------------------------------------------------	717
+AAO79178.1        ------------------------------------------------------------	782
+AAO79070.1        ------------------------------------------------------------	755
+AAO78236.1        ------------------------------------------------------------	735
+AAO76985.1        ------------------------------------------------------------	733
+AAO78878.1        ------------------------------------------------------------	753
+                                                                              
+
+AFK83609.1        ESWQAFRTALAAATGTLDDAAASDEALHDARLALQGAVDALEEPADVVLVEVEVSPRCLA	1588
+AAO78889.1        ------------------------------------------------------------	760
+AAO77736.1        ------------------------------------------------------------	760
+AAO79067.1        ------------------------------------------------------------	761
+AAO79095.1        ------------------------------------------------------------	755
+BAA76709.1        T--HTY-----ATAGAYTVTVTADDGVRSAEAQLQ---MVVVEPEPVYTPEIQVTASAGP	1670
+AFK83608.1        S--HAY-----TAAGTYTAYVVVDDGWTSQVVEVP---VTVTEAEPALAVDVTVSTRCLA	1729
+CAD7619346.1      ------------------------------------------------------------	1411
+AFK83605.1        ------------------------------------------AVAPPAPVEVEASARCLG	821
+AFK83606.1        ------------------------------------------GDVPAPQVEVTAQARCLG	1102
+AAO78636.1        ------------------------------------------------------------	653
+AAO79198.1        ------------------------------------------------------------	717
+AAO79178.1        ------------------------------------------------------------	782
+AAO79070.1        ------------------------------------------------------------	755
+AAO78236.1        ------------------------------------------------------------	735
+AAO76985.1        ------------------------------------------------------------	733
+AAO78878.1        ------------------------------------------------------------	753
+                                                                              
+
+AFK83609.1        GKPYVAV--RAVNVSDAAVDVELASSLGTRSFVG-------VAP-----GASAYQSFAAR	1634
+AAO78889.1        ------------------------------------------------------------	760
+AAO77736.1        ------------------------------------------------------------	760
+AAO79067.1        ------------------------------------------------------------	761
+AAO79095.1        ------------------------------------------------------------	755
+BAA76709.1        GDTVAVTGAGFAPGEKVSIRIDAETPVSTTAGQNGAIAAELVIPVDAVDGSHPVIAL-GE	1729
+AFK83608.1        GKAYVAV--RAENGEDVPLAIRLVTPFGTKEVAA-------VAP-----GANAYQSFATR	1775
+CAD7619346.1      ------------------------------------------------------------	1411
+AFK83605.1        GRAFVAV--RATSTADAPVDVTLTTPFGERTVRH-------VQP-----GRSAYQSFTTR	867
+AFK83606.1        GKAFVAV--RALNTGEQPAAIELATPYGSKLFGD-------VAP-----GANAYQSFATR	1148
+AAO78636.1        ------------------------------------------------------------	653
+AAO79198.1        ------------------------------------------------------------	717
+AAO79178.1        ------------------------------------------------------------	782
+AAO79070.1        ------------------------------------------------------------	755
+AAO78236.1        ------------------------------------------------------------	735
+AAO76985.1        ------------------------------------------------------------	733
+AAO78878.1        ------------------------------------------------------------	753
+                                                                              
+
+AFK83609.1        SATGD-LDVTVTATGADGTQTVEQVVT----VPSCS------------------------	1665
+AAO78889.1        ------------------------------------------------------------	760
+AAO77736.1        ------------------------------------------------------------	760
+AAO79067.1        ------------------------------------------------------------	761
+AAO79095.1        ------------------------------------------------------------	755
+BAA76709.1        VSKVEARASVLVATDPQSPRKTSVTLAAGSDDAVAGESVPLIATVKPAGAAGKVDFFEGD	1789
+AFK83608.1        VTAVEAGTVTVEATRGTGDEEVTASIQADYAAVTCG------------------------	1811
+CAD7619346.1      ------------------------------------------------------------	1411
+AFK83605.1        TTSVEAGTATVTVVAADGT---TSTVDAAYEALACG------------------------	900
+AFK83606.1        AAAVEAGEVTVTVTTPDGE---PQQVTAAYDAAACS------------------------	1181
+AAO78636.1        ------------------------------------------------------------	653
+AAO79198.1        ------------------------------------------------------------	717
+AAO79178.1        ------------------------------------------------------------	782
+AAO79070.1        ------------------------------------------------------------	755
+AAO78236.1        ------------------------------------------------------------	735
+AAO76985.1        ------------------------------------------------------------	733
+AAO78878.1        ------------------------------------------------------------	753
+                                                                              
+
+AFK83609.1        ------------------------------------------------------------	1665
+AAO78889.1        ------------------------------------------------------------	760
+AAO77736.1        ------------------------------------------------------------	760
+AAO79067.1        ------------------------------------------------------------	761
+AAO79095.1        ------------------------------------------------------------	755
+BAA76709.1        EIVGSAEVTGGTATADVTIPTSGTHVYVASFVPSDETAYRGSESSPLEIEVRDTPVLQAE	1849
+AFK83608.1        ------------------------------------------------------------	1811
+CAD7619346.1      ------------------------------------------------------------	1411
+AFK83605.1        ------------------------------------------------------------	900
+AFK83606.1        ------------------------------------------------------------	1181
+AAO78636.1        ------------------------------------------------------------	653
+AAO79198.1        ------------------------------------------------------------	717
+AAO79178.1        ------------------------------------------------------------	782
+AAO79070.1        ------------------------------------------------------------	755
+AAO78236.1        ------------------------------------------------------------	735
+AAO76985.1        ------------------------------------------------------------	733
+AAO78878.1        ------------------------------------------------------------	753
+                                                                              
+
+AFK83609.1        ------------------------------------------------------------	1665
+AAO78889.1        ------------------------------------------------------------	760
+AAO77736.1        ------------------------------------------------------------	760
+AAO79067.1        ------------------------------------------------------------	761
+AAO79095.1        ------------------------------------------------------------	755
+BAA76709.1        LVIGASTVTQGGTVQLAGRGFGSGETISVTLHSDPIHLIDVVADGNGAFRVTVTIPANAE	1909
+AFK83608.1        ------------------------------------------------------------	1811
+CAD7619346.1      ------------------------------------------------------------	1411
+AFK83605.1        ------------------------------------------------------------	900
+AFK83606.1        ------------------------------------------------------------	1181
+AAO78636.1        ------------------------------------------------------------	653
+AAO79198.1        ------------------------------------------------------------	717
+AAO79178.1        ------------------------------------------------------------	782
+AAO79070.1        ------------------------------------------------------------	755
+AAO78236.1        ------------------------------------------------------------	735
+AAO76985.1        ------------------------------------------------------------	733
+AAO78878.1        ------------------------------------------------------------	753
+                                                                              
+
+AFK83609.1        ------------------------------------------------------------	1665
+AAO78889.1        ------------------------------------------------------------	760
+AAO77736.1        ------------------------------------------------------------	760
+AAO79067.1        ------------------------------------------------------------	761
+AAO79095.1        ------------------------------------------------------------	755
+BAA76709.1        VGAHTLIAVGADSGLTAQGALTVTAAAGTGGGLAGTGGAVPIAAIALLLLLLAAGGVLVI	1969
+AFK83608.1        ------------------------------------------------------------	1811
+CAD7619346.1      ------------------------------------------------------------	1411
+AFK83605.1        ------------------------------------------------------------	900
+AFK83606.1        ------------------------------------------------------------	1181
+AAO78636.1        ------------------------------------------------------------	653
+AAO79198.1        ------------------------------------------------------------	717
+AAO79178.1        ------------------------------------------------------------	782
+AAO79070.1        ------------------------------------------------------------	755
+AAO78236.1        ------------------------------------------------------------	735
+AAO76985.1        ------------------------------------------------------------	733
+AAO78878.1        ------------------------------------------------------------	753
+                                                                              
+
+AFK83609.1        -------	1665
+AAO78889.1        -------	760
+AAO77736.1        -------	760
+AAO79067.1        -------	761
+AAO79095.1        -------	755
+BAA76709.1        RRRRVES	1976
+AFK83608.1        -------	1811
+CAD7619346.1      -------	1411
+AFK83605.1        -------	900
+AFK83606.1        -------	1181
+AAO78636.1        -------	653
+AAO79198.1        -------	717
+AAO79178.1        -------	782
+AAO79070.1        -------	755
+AAO78236.1        -------	735
+AAO76985.1        -------	733
+AAO78878.1        -------	753
+                         
