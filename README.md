@@ -25,7 +25,7 @@ Rodina GH92 obsahuje $Ca^{2+}$-dependentní $lpha$-mannosidázy s charakteristi
 Ze zarovnání (MSA) vyplynulo, že sekvence sdílejí vysokou míru konzervovanosti v kratších úsecích (zejména ve střední části proteinů odpovídající pravděpodobně aktivnímu místu), ale celkově se výrazně liší svojí délkou. Fylogenetický strom následně vizualizuje shlukování těchto sekvencí podle jejich funkční a druhové příbuznosti.
 
 ### Fylogenetický strom
-![Fylogenetický strom](fylogeneticky strom.png)
+![Fylogenetický strom](fylogeneticky_strom.png)
 
 ## Obsah repozitáře
 * `bioinformatika_ukol_Sustrova.pdf` - Kompletní vypracovaný úkol obsahující detailní vícenásobné zarovnání a vizualizovaný fylogenetický strom.
