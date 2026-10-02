@@ -28,7 +28,7 @@ Ze zarovnání (MSA) vyplynulo, že sekvence sdílejí vysokou míru konzervovan
 ![Fylogenetický strom](fylogeneticky_strom.png)
 
 ## Obsah repozitáře
-* `bioinformatika_ukol_Sustrova.pdf` - Kompletní vypracovaný úkol obsahující detailní vícenásobné zarovnání a vizualizovaný fylogenetický strom.
+* `zaklady_bioinformatiky_projekt.pdf` - Kompletní vypracovaný úkol obsahující detailní vícenásobné zarovnání a vizualizovaný fylogenetický strom.
 * `fylogeneticky_strom.png` - Vyexportovaný obrázek fylogenetického stromu.
 * `espript_zarovnani.pdf` - Kompletní, barevně obarvené vícenásobné sekvenční zarovnání z nástroje ESPript 3.0.
 * `clustalo-I20240329-191856-0020-60580909-p1m-aln-clustal_num.txt` - Surový textový výstup zarovnání z programu Clustal Omega.
